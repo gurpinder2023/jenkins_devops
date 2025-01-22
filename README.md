@@ -30,7 +30,7 @@ This repository demonstrates how Jenkins can be used for Continuous Integration 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jenkins_devops.git
+   git clone https://github.com/gurpinder2023/jenkins_devops.git
 2. Review the provided PDF files to understand the setup and processes.
 
 3. Use the insights to replicate or adapt the pipeline for your projects.
